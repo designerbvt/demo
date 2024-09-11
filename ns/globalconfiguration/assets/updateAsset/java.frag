@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">updateAsset</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vy
+c29yKCk7DQpTdHJpbmcJdHlwZSA9IElEYXRhVXRpbC5nZXRTdHJpbmcoIHBpcGVsaW5lQ3Vyc29y
+LCAidHlwZSIgKTsNClN0cmluZwlhc3NldElkID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxp
+bmVDdXJzb3IsICJhc3NldElkIiApOw0KU3RyaW5nW11bXQlwcm9wZXJ0aWVzID0gSURhdGFVdGls
+LmdldFN0cmluZ1RhYmxlKCBwaXBlbGluZUN1cnNvciwgInByb3BlcnRpZXMiICk7DQpNYXA8U3Ry
+aW5nLCBTdHJpbmc+IHBkYXRhID0gbmV3IEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+KCk7DQpmb3Ig
+KFN0cmluZ1tdIHAgOiBwcm9wZXJ0aWVzKSB7DQoJcGRhdGEucHV0KHBbMF0sIHBbMV0pOw0KfQ0K
+DQovLyBwaXBlbGluZQ0KDQp0cnkgew0KCWNvbS5zb2Z0d2FyZWFnLmlzLmR5bmFtaWN2YXJpYWJs
+ZXMuRHluYW1pY1ZhcmlhYmxlc01hbmFnZXIuaW5zdGFuY2UoKS51cGRhdGVBc3NldCh0eXBlLCBh
+c3NldElkLCBwZGF0YSk7DQp9IGNhdGNoIChEeW5hbWljVmFyaWFibGVzQ29uZmlnRXhjZXB0aW9u
+IGUpIHsNCn0NCg0KcGlwZWxpbmVDdXJzb3IuZGVzdHJveSgpOw==</value>
+</Values>
